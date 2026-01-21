@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "autumnmin",
-    "author": "vBook",
+    "author": "lippcr-bot",
     "version": 1,
     "source": "https://autumnmin.com",
     "regexp": "https://autumnmin\\.com/.*",
@@ -14,4 +14,5 @@
     "toc": "toc.js",
     "chap": "chap.js"
   }
+
 }
