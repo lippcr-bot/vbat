@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "name": "autumnmin",
+    "author": "vBook",
+    "version": 1,
+    "source": "https://autumnmin.com",
+    "regexp": "https://autumnmin\\.com/.*",
+    "description": "Đọc truyện trên trang autumnmin.com",
+    "locale": "vi_VN",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
