@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "lippcr-bot",
+    "description": "Nguồn Autumn MIN cho vBook"
+  },
+  "data": [
+    {
+      "name": "autumnmin",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/lippcr-bot/vbat/main/plugin.zip",
+      "version": 1,
+      "source": "https://autumnmin.com",
+      "icon": "https://raw.githubusercontent.com/lippcr-bot/vbat/main/icon.png",
+      "description": "Đọc truyện trên trang autumnmin.com",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+  ]
+}
