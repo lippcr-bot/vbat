@@ -2,7 +2,7 @@
   "metadata": {
     "name": "autumnmin",
     "author": "lippcr-bot",
-    "version": 1,
+    "version": 4,
     "source": "https://autumnmin.com",
     "regexp": "https://autumnmin\\.com/.*",
     "description": "Đọc truyện trên trang autumnmin.com",
@@ -16,3 +16,4 @@
   }
 
 }
+
